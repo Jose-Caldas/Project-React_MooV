@@ -4,7 +4,11 @@ export function ChallengeBox() {
   return (
     <div className={styles.challengeBoxContainer}>
       <div className={styles.challengeBoxNotActive}>
-        <strong>Finalize um ciclo para receber um deafio </strong>
+        <strong>Finalize um ciclo para receber um desafio </strong>
+        <p>
+          <img src="icons/level-up.svg" alt="level" />
+          Avance de level completando desafios
+        </p>
       </div>
     </div>
   );

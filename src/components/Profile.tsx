@@ -6,7 +6,7 @@ export function Profile() {
       <img src="minion.jpg" alt="avatar" />
 
       <div>
-        <strong>José Caldas</strong>
+        <strong>Name LName</strong>
         <p>
           <img src="icons/level.svg" alt="" srcset="" />
           Level 1

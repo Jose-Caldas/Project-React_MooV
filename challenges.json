@@ -1,0 +1,42 @@
+[
+  {
+    "type": "body",
+    "description": "Estique um de seus braços com a palma da mão virada para frente e puxe seus dedos para trás por 10 segundos (Ex: 1 imagem body)",
+    "amount": 50
+  },
+  {
+    "type": "body",
+    "description": "Estique um de seus braços com a palma da mão virada para frente e puxe seus dedos para trás por 10 segundos (Ex: 2 imagem body)",
+    "amount": 50
+  },
+  {
+    "type": "body",
+    "description": "Estique um de seus braços com a palma da mão virada para frente e puxe seus dedos para trás por 10 segundos (Ex: 3 imagem body)",
+    "amount": 60
+  },
+  {
+    "type": "body",
+    "description": "Estique um de seus braços com a palma da mão virada para frente e puxe seus dedos para trás por 10 segundos (Ex: 4 imagem body)",
+    "amount": 70
+  },
+  {
+    "type": "eye",
+    "description": "Estique um de seus braços com a palma da mão virada para frente e puxe seus dedos para trás por 10 segundos (Ex: 5 imagem eye)",
+    "amount": 80
+  },
+  {
+    "type": "eye",
+    "description": "Estique um de seus braços com a palma da mão virada para frente e puxe seus dedos para trás por 10 segundos (Ex: 6 imagem eye)",
+    "amount": 90
+  },
+  {
+    "type": "eye",
+    "description": "Estique um de seus braços com a palma da mão virada para frente e puxe seus dedos para trás por 10 segundos (Ex: 7 imagem eye)",
+    "amount": 100
+  },
+  {
+    "type": "eye",
+    "description": "Estique um de seus braços com a palma da mão virada para frente e puxe seus dedos para trás por 10 segundos (Ex: 8 imagem eye)",
+    "amount": 40
+  }
+]
